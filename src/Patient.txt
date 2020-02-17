@@ -1,0 +1,33 @@
+4
+True
+smith
+lee
+0478869520
+042274512
+leesmith@gmail.com
+rue du jeans
+800
+True
+swith
+taylor
+04758625
+042274689
+swithtaylor@gmail.com
+rue du concert
+797
+True
+Halliday
+Johnny
+04957680
+042254360
+Hallidayjohnny@gmail.com
+rue du grand concert
+805
+True
+Hendrix
+Jimmy
+04957685
+042478695
+Hendrixjimmy@gmail.com
+Rue du rock
+800

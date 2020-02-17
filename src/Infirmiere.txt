@@ -1,0 +1,25 @@
+2
+True
+Dupont
+Nicole
+0478869560
+042273586
+Dupontnicole@gmail.com
+Rue du pont
+795
+11 2222 33 444
+4,227358E+07
+True
+4
+True
+Dupuit
+Julie
+04789586
+042275683
+Dupuitjulie@gmail.com
+rue du puit
+801
+44 3333 22 11
+4,227568E+07
+False
+5

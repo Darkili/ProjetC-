@@ -1,0 +1,28 @@
+3
+True
+Dejace
+Julien
+0478869530
+042287682
+Dejacejulien@gmail.com
+rue du t shirt en v
+806
+6
+True
+Dutron
+Paul
+04607580
+042287580
+Dutronpaul@gmail.com
+Rue du tront
+796
+7
+False
+Dutron
+Paul
+04607580
+042287580
+Dutronpaul@gmail.com
+Rue du tront
+796
+8

@@ -1,0 +1,28 @@
+3
+True
+Weber
+Elodie
+0480457602
+042287546
+Weberelodie@gmail.com
+avenue de la paix
+809
+12 3456 22 456
+True
+Debotte
+Charles
+0475406230
+042274586
+Debottecharles@gmail.com
+rue du foin
+810
+55 2435 12 152
+True
+Delarc
+Benjamin
+0478769250
+042478060
+Benjamindelarc@gmail.com
+rue du pivet
+796
+123 4521 22 356

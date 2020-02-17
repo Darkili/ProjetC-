@@ -1,0 +1,65 @@
+5
+True
+Tourner Jeudi Bressoux
+Infirmier
+False
+False
+False
+True
+False
+False
+False
+1
+4020 Bressoux
+True
+Tourner Weekend Votem + Herstal
+Coursier
+False
+False
+False
+False
+False
+True
+True
+2
+4040 HERSTAL
+4041 Vottem
+True
+Tourner Mercredi Bressoux
+Infirmier
+False
+False
+False
+False
+False
+False
+False
+1
+4020 Bressoux
+True
+Tourner Lundii Bressoux
+Infirmiere
+True
+False
+False
+False
+False
+False
+False
+1
+4020 Bressoux
+True
+Tourner Liege
+Coursier
+False
+True
+False
+True
+False
+True
+True
+4
+4000 LIÈGE
+4020 Bressoux
+4020 LIÈGE
+4040 HERSTAL

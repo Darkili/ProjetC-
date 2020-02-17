@@ -1,0 +1,41 @@
+4
+True
+Medecin
+Med03
+Trn04
+Cou02
+prise de sang
+31/08/2017
+False
+False
+2
+True
+Medecin
+Med01
+Trn05
+Cou01
+Soins de plaie
+29/08/2017
+False
+False
+2
+True
+Patient
+Pat02
+Trn03
+Inf01
+prise de sang
+24/08/2017
+False
+True
+0
+True
+Patient
+Pat04
+Trn02
+Inf02
+Mise au lit
+26/08/2017
+False
+False
+0
